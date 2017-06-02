@@ -1,0 +1,63 @@
+{
+
+  "ExtensionName": {
+    "message": "Do More with Tabs",
+    "description": "Name of the extension."
+  },
+
+  "ExtensionShortName": {
+    "message": "DMT",
+    "description": "Shorter name for the extension."
+  },
+
+  "ExtensionDescription": {
+    "message": "Do More with Tabs is a small WebExtension that adds some helpful features for manipulating tabs.\n\nFrom a tab's context menu, DMT can create a new tab next to the tab, duplicate the tab, move the tab to the start or end of its window, and split and merge windows.\n\nDMT also adds two keyboard shortcuts. To create a new tab next to the current tab, use Alt+T, or Ctrl+T if you are on a Mac. To duplicate the current tab, use Alt+Shift+T, or Ctrl+Shift+T if you are on a Mac.\n\nAs a WebExtension, DMT will continue to work in Firefox 57 and beyond. To function correctly, it requires at least Firefox 53.\n\nCopyright (C) 2017 Chris Drake. Do More with Tabs is subject to the terms of the Mozilla Public License, v. 2.0 (http://mozilla.org/MPL/2.0/).",
+    "description": "Description of the extension."
+  },
+
+  "CommandCreateAdjacentTab": {
+    "message": "Create a new tab next to the current tab.",
+    "description": "Description of the command that creates a new tab next to the current tab."
+  },
+
+  "CommandDuplicateTab": {
+    "message": "Duplicate the current tab.",
+    "description": "Description of the command that duplicates the current tab."
+  },
+
+  "MenuItemCreateAdjacentTab": {
+    "message": "New Tab Here",
+    "description": "Title of the context menu item that creates a new tab next to the tab."
+  },
+
+  "MenuItemDuplicateTab": {
+    "message": "Duplicate Tab",
+    "description": "Title of the context menu item that duplicates the tab."
+  },
+
+  "MenuItemMoveTabToStart": {
+    "message": "Move Tab to Start",
+    "description": "Title of the context menu item that moves the tab to the start of its window."
+  },
+
+  "MenuItemMoveTabToEnd": {
+    "message": "Move Tab to End",
+    "description": "Title of the context menu item that moves the tab to the end of its window."
+  },
+
+  "MenuItemSplitWindowHere": {
+    "message": "Split Window Here",
+    "description": "Title of the context menu item that splits the window at the tab."
+  },
+
+  "MenuItemCreateNewWindowForDomain": {
+    "message": "New Window for Domain",
+    "description": "Title of the context menu item that detaches the tab with others from the same domain."
+  },
+
+  "MenuItemMergeAllWindows": {
+    "message": "Merge All Windows",
+    "description": "Title of the context menu item that merges all windows."
+  }
+
+}
